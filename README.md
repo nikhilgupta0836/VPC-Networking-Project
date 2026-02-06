@@ -13,7 +13,7 @@ Setup a **secure VPC** with public & private subnets, routing, and security grou
 
 ---
 
-## 🌐 Architecture
+## 🌐 Architecture ..
 Internet → IGW → Public Subnet → EC2 (SSH 22, HTTP 80/8080)  
                      ↓  
                  Private Subnet → Private Resources → NAT
