@@ -10,7 +10,7 @@
 
 ## ⚙️ Key Takeaways
 - Keep your private resources (like DBs) inside the private subnet.  
-- Never assign public IPs to private instances.  
+- Never assign public IPs to private instances.  kk
 - Always use least privilege for security groups.  
 - Delete resources after testing to save costs.
 
