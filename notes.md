@@ -19,4 +19,4 @@ This setup forms the base for:
 - Web-app architectures (Public Web Server + Private DB)  
 - Secure Dev/Test Environments  
 - Future setups with ALB, RDS, and Auto-Scaling.
-- this is the work done baaaaaaaaaazaaaaaaaaaaaaaaaaaaaaa
+- this is the work done baaaaaaaaaazaaaaaaaaaaaaaaaaaaaaaa
